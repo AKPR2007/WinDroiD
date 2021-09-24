@@ -9,5 +9,5 @@ clear
 pkg install qemu-system-x86_64
 clear
 termux-setup-storage
-wget -O w10_start.sh https://is.gd/StartFileW10
+wget -O w10_start.sh https://is.gd/StartShellFileW10
 echo "settings up is done now run w10_start.sh"
