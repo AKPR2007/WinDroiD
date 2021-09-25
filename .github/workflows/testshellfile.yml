@@ -30,6 +30,5 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: execute
         run: |
-          wget -o w10.sh https://raw.githubusercontent.com/AKPR2007/W10-in-android_termux/main/w10_shellfile.sh
-          chmod +x w10.sh
-          ./w10.sh
+          chmod +x w10_shellfile.sh
+          ./w10_shellfile.sh
