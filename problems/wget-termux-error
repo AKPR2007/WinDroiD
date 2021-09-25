@@ -1,0 +1,6 @@
+So the termux play store version isn't updated anymore from mid last year. Termux all repos (including wget repo) was hosted on JFrog Bintray. But since 1st may 2021 Bintray shutdown itself which caused this massive problem. They've now moved to a new repo host. But the play store version still supports repo from dl.bintray.com since it's down you get an error.
+
+This error can be fixed by using the FDroid version rather than play store version.
+Or by changing repos using termux-change-repo command. Then change repos to hosted by grimler.se for best results. And lastly run apt-upgrade to finish
+
+termux supports only android 7.x+ if you're using android 4.x/5.x/6.x or any legacy device. Than you've no choice rather than update you're android version to 7.x+
