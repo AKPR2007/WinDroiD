@@ -12,4 +12,5 @@ clear
 echo "please accept storage permission"
 termux-setup-storage
 wget -O w10.sh https://is.gd/StartShellFileW10
+chmod +x w10.sh
 echo "settings up is done now run w10.sh"
