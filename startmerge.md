@@ -1,6 +1,6 @@
 # Welcome to W10-in-android_termux
 
-### This code allows you to run a lite and stable version of Microsoft Windows 10
+### This code allows you to run a lite and stable version of Microsoft Windows 10 on android phone via termux
 
 # TUTORIAL
 
