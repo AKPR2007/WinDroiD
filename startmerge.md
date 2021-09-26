@@ -38,3 +38,38 @@
 
 > [optional] bluetooth keyboard and mouse
 
+### **Execute code**
+
+> **Open termux and copy paste the following commands one by one in a order**
+
+> 1) `apt update && apt upgrade –y`
+
+> 2) `pkg install wget`
+
+> 3) `clear`
+
+> 4) `wget -O w10setup.sh https://raw.githubusercontent.com/AKPR2007/W10-in-android_termux/main/w10_shellfile.sh`
+
+> 5) `chmod +x w10setup.sh`
+
+> 6) `ls`
+
+**Now if it shows w10setup.sh highlighted in green it means you've done everything right till now. If it doesn't show that you're done something very wrong**
+
+> Lastly run `./w10setup.sh` and wait till complete
+
+**You will need to grant storage permission to termux when a pop up comes up**
+
+**When the settings up is complete you should see a output like this `settings up is done now run w10.sh`**
+
+> Then to start the machine type `./w10.sh`
+
+> Paste your Windows 10 image file directory
+
+> Give your VM a desired amount of ram you want in mb like if you want to give your VM 1gb ram then type 1024
+
+**Finally wait for 2 minutes to boot up the VM**
+
+**Then open vnc viewer and paste `127.0.0.1:2` in ip address**
+
+**Boom it's working**
