@@ -2,21 +2,13 @@
 
 ### This code allows you to run a lite and stable version of Microsoft Windows 10 on android phone via termux
 
-# TUTORIAL
+# Installation TUTORIAL
 
-## We will guide you through how to use this code on your own nonrooted android device
-
-### To get started you will need some basic things
-
-### **You will need the following apps**
+### **Required apps**
 
 > **Termux download**
 > 
-> **Unavailable right now**
-
-> **w10 iso download**
-> 
-> **https://is.gd/x11QEMUw10ISO (uncleaned)**
+> **Use fdroid version or wait for link**
 
 > **VNC viewer download**
 > 
