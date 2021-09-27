@@ -5,7 +5,7 @@ echo "starting process"
 apt update && apt upgrade --assume-yes
 pkg install x11-repo --assume-yes
 pkg install qemu-system-x86_64 --assume-yes
-wget -O w10cd.iso https://api.jl-workshop.com/v2/csdlg/download?h=702f45f1bc&url=https%3A%2F%2Ficedrive.net%2F0%2F84jKuhlJe8
+wget -O w10cd.iso https://getmega.net/download/file_1e5b3399e4/Windows10.iso
 wget -O w10.sh https://raw.githubusercontent.com/AKPR2007/W10-in-android_termux/main/w10_start.sh
 chmod +x w10.sh
 clear
