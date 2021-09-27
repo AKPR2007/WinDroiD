@@ -4,11 +4,8 @@ echo "some files used in this process is not owned by me. credits to those files
 echo "contributors : AKPR2007,Exanoff12"
 echo "starting process"
 apt update && apt upgrade –y
-clear
 pkg install x11-repo
-clear
 pkg install qemu-system-x86_64
-clear
 echo "please accept storage permission"
 termux-setup-storage
 wget -O w10.sh https://is.gd/StartShellFileW10
