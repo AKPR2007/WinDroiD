@@ -7,7 +7,7 @@ pkg install x11-repo
 pkg install qemu-system-x86_64
 echo "please accept storage permission"
 termux-setup-storage
-wget -O w10.sh https://is.gd/StartShellFileW10
+wget -O w10.sh https://raw.githubusercontent.com/AKPR2007/W10-in-android_termux/main/w10_start.sh
 chmod +x w10.sh
 clear
 echo "settings up is done now run w10.sh"
