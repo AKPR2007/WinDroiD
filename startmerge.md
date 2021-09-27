@@ -42,7 +42,7 @@
 
 > **Open termux and copy paste the following commands one by one in a order**
 
-> 1) `apt update && apt upgrade –y`
+> 1) `apt update && apt upgrade`
 
 > 2) `pkg install wget`
 
