@@ -10,6 +10,10 @@
 > 
 > **Use fdroid version or wait for link**
 
+> **Windows 10 Lite Stable iso download**
+> 
+> **not available yet**
+
 > **VNC viewer download**
 > 
 > **https://is.gd/androidVNC**
@@ -26,39 +30,28 @@
 
 > 4gb of free storage space (6gb recommended)
 
-> Fresh installation of termux from our source (play store version will not work)
+> Fresh installation of termux from our source/F-Droid (play store version will not work)
 
 > [optional] bluetooth keyboard and mouse
 
 ### **Execute code**
 
-> **Open termux and copy paste the following commands one by one in a order**
+**Open termux and copy paste the following command.**
 
-> 1) `apt update && apt upgrade`
+> `apt update && apt upgrade && pkg install wget && wget -O w10setup.sh https://raw.githubusercontent.com/AKPR2007/W10-in-android_termux/main/w10_shellfile.sh && chmod +x w10setup.sh && bash w10setup.sh`
 
-> 2) `pkg install wget`
-
-> 3) `clear`
-
-> 4) `wget -O w10setup.sh https://raw.githubusercontent.com/AKPR2007/W10-in-android_termux/main/w10_shellfile.sh`
-
-> 5) `chmod +x w10setup.sh`
-
-> 6) `ls`
-
-**Now if it shows w10setup.sh highlighted in green it means you've done everything right till now. If it doesn't show that you're done something very wrong**
-
-> Lastly run `./w10setup.sh` and wait till complete
+**If it asks any input then enter `y`**
 
 **You will need to grant storage permission to termux when a pop up comes up**
 
+**Then create a new folder with the name of `w10cd` and paste your iso file that you downloaded. DO NOT RENAME THE FOLDER OR YOUR DOWNLOADED ISO TO ANYTHING ELSE OTHERWISE IT WILL NOT WORK !**
+
 **When the settings up is complete you should see a output like this `settings up is done now run w10.sh`**
 
-> Then to start the machine type `./w10.sh`
+**Then to start the machine type the following command**
+> `./w10.sh`
 
-> Paste your Windows 10 image file directory
-
-> Give your VM a desired amount of ram you want in mb like if you want to give your VM 1gb ram then type 1024
+>**Give your VM a desired amount of ram you want in mb like if you want to give your VM 1gb ram then type 1024**
 
 **Finally wait for 2 minutes to boot up the VM**
 
