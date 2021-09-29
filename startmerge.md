@@ -49,9 +49,9 @@
 **When the settings up is complete you should see a output like this `settings up is done now run w10.sh`**
 
 **Then to start the machine type the following command**
-> `./w10.sh`
+> `bash w10.sh`
 
->**Give your VM a desired amount of ram you want in mb like if you want to give your VM 1gb ram then type 1024**
+**Give your VM a desired amount of ram you want in mb like if you want to give your VM 1gb ram then type 1024**
 
 **Finally wait for 2 minutes to boot up the VM**
 
