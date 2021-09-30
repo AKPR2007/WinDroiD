@@ -2,6 +2,8 @@
 
 ### This code allows you to run a lite and stable version of Microsoft Windows 10 on your nonrooted android phone via termux
 
+
+
 # Installation TUTORIAL
 
 ### **Required apps and files**
