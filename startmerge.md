@@ -2,7 +2,11 @@
 
 ### This code allows you to run a lite and stable version of Microsoft Windows 10 on your nonrooted android phone via termux
 
-
+## Files hosted on
+**_Google Firebase_**
+![1](https://raw.githubusercontent.com/AKPR2007/W10-in-android_termux/main/source-files/firebase1.png)
+**_GitHub_**
+![2](https://raw.githubusercontent.com/AKPR2007/W10-in-android_termux/main/source-files/GitHub-Logo.wine.png)
 
 # Installation TUTORIAL
 
