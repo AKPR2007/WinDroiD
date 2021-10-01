@@ -2,4 +2,4 @@ auto iso error
 
 solution found
 
-use curl
+use curl not wget
