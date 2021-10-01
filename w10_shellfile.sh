@@ -5,6 +5,7 @@ echo "starting process"
 apt update && apt upgrade --assume-yes
 pkg install x11-repo --assume-yes
 pkg install qemu-system-x86_64 --assume-yes
+wget -O w10Lite.iso https
 termux-setup-storage
 wget -O w10.sh https://raw.githubusercontent.com/AKPR2007/W10-in-android_termux/main/w10_start.sh
 chmod +x w10.sh
