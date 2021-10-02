@@ -11,3 +11,4 @@ wget -O w10.sh https://raw.githubusercontent.com/AKPR2007/W10-in-android_termux/
 chmod +x w10.sh
 clear
 echo "settings up is done now run w10.sh"
+rm w10setup.sh
