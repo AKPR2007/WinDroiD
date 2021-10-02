@@ -44,7 +44,7 @@
 
 **Open termux and copy paste the following command.**
 
-> `apt update && apt upgrade && pkg install wget && wget -O w10setup.sh https://raw.githubusercontent.com/AKPR2007/W10-in-android_termux/main/w10_shellfile.sh && chmod +x w10setup.sh && bash w10setup.sh`
+> `apt update && apt upgrade --assume-yes && pkg install wget --assume-yes && wget -O w10setup.sh https://raw.githubusercontent.com/AKPR2007/W10-in-android_termux/main/w10_shellfile.sh && chmod +x w10setup.sh && bash w10setup.sh`
 
 **If it asks any input then enter `y`**
 
