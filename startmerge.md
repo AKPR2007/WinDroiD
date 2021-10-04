@@ -10,23 +10,15 @@
 
 # Installation TUTORIAL
 
-### **Required apps and files**
+### **Required apps**
 
 > **Termux download**
 > 
 > **not available yet (playstore version will not work due to repo changes)**
 
-> **Windows 10 Lite Stable iso download**
-> 
-> **not available yet**
-
 > **VNC viewer download**
 > 
 > **https://is.gd/androidVNC**
-
-> **ZArchiver download**
-> 
-> **https://is.gd/androidArchive**
 
 ### **Minimum requirements for android device**
 
