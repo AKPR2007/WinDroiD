@@ -14,11 +14,12 @@
 
 > **Termux download**
 > 
-> **not available yet (playstore version will not work due to repo changes)**
+> **You need to download Termux from the following link. Google Play version of Termux is unmaintained and will not work**
+> **[Click to download](https://f-droid.org/repo/com.termux_117.apk)**
 
 > **VNC viewer download**
 > 
-> **https://is.gd/androidVNC**
+> **[Click to download](https://play.google.com/store/apps/details?id=com.realvnc.viewer.android&hl=en_IN)**
 
 ### **Minimum requirements for android device**
 
