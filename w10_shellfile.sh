@@ -2,6 +2,7 @@ echo "run windows 7 on termux"
 echo "some files used in this process is not owned by me. credits to those files are in github"
 echo "contributors : AKPR2007,Exanoff12"
 echo "starting process"
+pkg update && pkg upgrade --assume-yes
 pkg install wget --assume-yes
 pkg install unzip --assume-yes
 pkg install x11-repo --assume-yes
