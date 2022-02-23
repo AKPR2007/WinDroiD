@@ -6,8 +6,8 @@ pkg install x11-repo --assume-yes
 pkg install qemu-system-x86_64 --assume-yes
 wget -O w10Lite.iso 'https://firebasestorage.googleapis.com/v0/b/akpr-w10termux-repo.appspot.com/o/w10Lite.iso?alt=media&token=d301b735-4c35-42e0-8346-0d1617301472'
 termux-setup-storage
-wget -O w10.sh https://raw.githubusercontent.com/AKPR2007/W10-in-android_termux/main/w10_start.sh
-chmod +x w10.sh
+wget -O w10 https://raw.githubusercontent.com/AKPR2007/W10-in-android_termux/main/w10_start.sh
+chmod +x w10
 clear
-echo "settings up is done now run w10.sh"
+echo "settings up is done now run './w10' to start windows 10 !"
 rm w10setup.sh
