@@ -6,7 +6,13 @@ pkg install wget --assume-yes
 pkg install unzip --assume-yes
 pkg install x11-repo --assume-yes
 pkg install qemu-system-i386-headless --assume-yes
-
+if [ -d "storage" ] 
+then
+    echo "internal storage access found. skipping step" 
+else
+    echo "please give internal storage access"
+    termux-setup-storage
+fi
 termux-setup-storage
 wget "link"
 unzip w7.zip
