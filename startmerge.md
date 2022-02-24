@@ -1,6 +1,5 @@
-# Welcome to WinDroid
-
-![logo-win](https://raw.githubusercontent.com/AKPR2007/W10-in-android_termux/main/img/logo-win.png)
+<h1 align="center">Welcome to WinDroid</h1>
+<img align="center" src="https://raw.githubusercontent.com/AKPR2007/W10-in-android_termux/main/img/logo-win.png">
 
 ### This code allows you to run a lite and stable version of Microsoft Windows 7 on your nonrooted android phone via termux
 
