@@ -43,13 +43,13 @@
 
 **You will need to grant storage permission to termux when a pop up comes up (if you haven't setup storage already)**
 
-**When the settings up is complete you should see a output like this `settings up is done now run w10.sh`**
+**When the settings up is complete you should see a output like this `setting up is done now run './win7' to start windows 7 !`**
 
 **Then to start the machine type the following command**
-> `bash w10.sh`
+> `./win7`
 
 **Finally wait for 2 minutes to boot up the VM**
 
-**Then open vnc viewer and paste `127.0.0.1:2` in ip address**
+**Then open vnc viewer and paste `127.0.0.1:7600` in ip address**
 
 **Boom it's working**
