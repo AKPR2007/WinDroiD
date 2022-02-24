@@ -3,10 +3,13 @@
 ### This code allows you to run a lite and stable version of Microsoft Windows 7 on your nonrooted android phone via termux
 
 ## Files hosted on
-**_Google Firebase_ (hosted apks and iso)**
-![1](https://r7.pngwing.com/path/359/1024/935/firebase-cloud-messaging-computer-icons-google-cloud-messaging-android-de471eee59be8dcb83f1dc54d40cdb0c.png)
-**_GitHub_ (hosted shellfile)**
-![2](https://r7.pngwing.com/path/115/663/774/github-computer-icons-directory-github-acc12dcc8400431ea5c9b3bcae38ea5c.png)
+**_DropBox_ (hosted apks and hda)**
+
+![icon-dropbox](https://raw.githubusercontent.com/AKPR2007/W10-in-android_termux/main/img/icon-dropbox.png)
+
+**_GitHub_ (hosted shellfiles)**
+
+![icon-github](https://raw.githubusercontent.com/AKPR2007/W10-in-android_termux/main/img/icon-github.png)
 
 # Installation TUTORIAL
 
