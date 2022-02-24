@@ -37,7 +37,7 @@ termux-setup-storage
 clear
 echo "downloading files from AK PR's Server"
 sleep 3s
-wget "link"
+wget "https://dl.dropboxusercontent.com/s/iengjqhgoukoxuj/w7.zip?dl=0"
 clear
 echo "finalising setup"
 sleep 3s
