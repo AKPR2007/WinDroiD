@@ -1,6 +1,6 @@
-# Welcome to W10-in-android_termux
+# Welcome to WinDroid
 
-### This code allows you to run a lite and stable version of Microsoft Windows 10 on your nonrooted android phone via termux
+### This code allows you to run a lite and stable version of Microsoft Windows 7 on your nonrooted android phone via termux
 
 ## Files hosted on
 **_Google Firebase_ (hosted apks and iso)**
@@ -25,32 +25,28 @@
 
 > Android 7.x+
 
-> 2gb of random access memory (ram)
+> 3gb of ram (4+gb recommended)
 
-> 4gb of free storage space (6gb recommended)
+> 5gb of free storage space (8+gb recommended)
 
 > Fresh installation of termux from our source/F-Droid (play store version will not work)
 
-> [optional] bluetooth keyboard and mouse
+> [optional] bluetooth keyboard and mouse (for better use experience)
 
 ### **Execute code**
 
 **Open termux and copy paste the following command.**
 
-> `apt update && apt upgrade --assume-yes && apt-get install wget --assume-yes && wget -O w10setup.sh https://raw.githubusercontent.com/AKPR2007/W10-in-android_termux/main/w10_shellfile.sh && chmod +x w10setup.sh && bash w10setup.sh`
+> `command`
 
 **If it asks any input then enter `y`**
 
-**You will need to grant storage permission to termux when a pop up comes up**
-
-**Then create a new folder with the name of `w10cd` and paste your iso file that you downloaded. DO NOT RENAME THE FOLDER OR YOUR DOWNLOADED ISO TO ANYTHING ELSE OTHERWISE IT WILL NOT WORK !**
+**You will need to grant storage permission to termux when a pop up comes up (if you haven't setup storage already)**
 
 **When the settings up is complete you should see a output like this `settings up is done now run w10.sh`**
 
 **Then to start the machine type the following command**
 > `bash w10.sh`
-
-**Give your VM a desired amount of ram you want in mb like if you want to give your VM 1gb ram then type 1024**
 
 **Finally wait for 2 minutes to boot up the VM**
 
