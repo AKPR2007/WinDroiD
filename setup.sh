@@ -48,7 +48,11 @@ wget -O win7 "https://raw.githubusercontent.com/AKPR2007/WinDroiD/main/start.sh"
 chmod +x win7
 cd storage/shared
 mkdir WinDroiD
+cd WinDroiD
 wget -O DontRemoveThisFolder "https://raw.githubusercontent.com/AKPR2007/WinDroiD/main/blank"
+mkdir SharedDrive
+cd SharedDrive
+wget -O ThisIsTheSharedFolder "https://raw.githubusercontent.com/AKPR2007/WinDroiD/main/blank"
 cd ~
 clear
 echo "setting up is done now run './win7' to start windows 7!"
