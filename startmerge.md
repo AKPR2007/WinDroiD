@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to WinDroiD</h1>
 <p align="center">
-<img align="center" src="/img/logo-win.png">
+<img src="/img/logo-win.png"> <br> + <br> <img src="/img/logo-android.png">
 </p>
 
 ### This code allows you to run a lite and stable version of Microsoft Windows 7 on your nonrooted android phone via termux
