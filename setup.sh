@@ -20,9 +20,9 @@ echo "enabling x11 repo"
 sleep 3s
 pkg install x11-repo --assume-yes
 clear
-echo "installating qemu system i386 headless"
+echo "installating qemu system i386"
 sleep 3s
-pkg install qemu-system-i386-headless --assume-yes
+pkg install qemu-system-i386 --assume-yes
 clear
 echo "setup storage access"
 sleep 3s
