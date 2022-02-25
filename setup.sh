@@ -47,4 +47,4 @@ wget -O win7 "https://raw.githubusercontent.com/AKPR2007/W10-in-android_termux/m
 chmod +x win7
 clear
 echo "setting up is done now run './win7' to start windows 7 !"
-rm setup7.sh
+rm setup.sh
