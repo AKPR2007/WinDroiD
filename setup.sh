@@ -43,7 +43,7 @@ echo "finalising setup"
 sleep 3s
 unzip w7.zip
 rm w7.zip
-wget -O win7 "https://raw.githubusercontent.com/AKPR2007/W10-in-android_termux/main/start.sh"
+wget -O win7 "https://raw.githubusercontent.com/AKPR2007/WinDroiD/main/start.sh"
 chmod +x win7
 clear
 echo "setting up is done now run './win7' to start windows 7 !"
