@@ -6,23 +6,23 @@ sleep 2s
 clear
 echo "updating and upgrading packages"
 sleep 3s
-pkg update && pkg upgrade --assume-yes
+apt update && apt upgrade -y
 clear
 echo "installating wget"
 sleep 3s
-pkg install wget --assume-yes
+pkg install wget -y
 clear
 echo "installating unzip"
 sleep 3s
-pkg install unzip --assume-yes
+pkg install unzip -y
 clear
 echo "enabling x11 repo"
 sleep 3s
-pkg install x11-repo --assume-yes
+pkg install x11-repo -y
 clear
 echo "installating qemu system i386"
 sleep 3s
-pkg install qemu-system-i386 --assume-yes
+pkg install qemu-system-i386 -y
 clear
 echo "setup storage access"
 sleep 3s
