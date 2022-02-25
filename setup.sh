@@ -4,6 +4,7 @@ echo "contributors : AKPR2007,Exanoff12"
 echo "starting process"
 sleep 2s
 clear
+cd ~
 echo "updating and upgrading packages"
 sleep 3s
 yes | apt update && yes | apt upgrade
@@ -45,6 +46,10 @@ unzip w7.zip
 rm w7.zip
 wget -O win7 "https://raw.githubusercontent.com/AKPR2007/WinDroiD/main/start.sh"
 chmod +x win7
+cd storage/shared
+mkdir WinDroiD
+wget -O DontRemoveThisFolder "link"
+cd ~
 clear
 echo "setting up is done now run './win7' to start windows 7 !"
 rm setup.sh
