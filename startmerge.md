@@ -43,7 +43,7 @@
 
 **Open termux and copy paste the following command.**
 
-> `rm -f "setup.sh" && curl -o "https://raw.githubusercontent.com/AKPR2007/WinDroiD/main/setup.sh" && ./setup.sh`
+> `rm -f "setup.sh" && curl -O "https://raw.githubusercontent.com/AKPR2007/WinDroiD/main/setup.sh" && chmod +x setup.sh && ./setup.sh`
 
 **If it asks any input then enter `y`**
 
