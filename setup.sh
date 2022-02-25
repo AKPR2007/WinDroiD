@@ -6,7 +6,7 @@ sleep 2s
 clear
 echo "updating and upgrading packages"
 sleep 3s
-apt update && apt upgrade -y
+yes | apt update && yes | apt upgrade
 clear
 echo "installating wget"
 sleep 3s
@@ -37,7 +37,7 @@ termux-setup-storage
 clear
 echo "downloading files from AK PR's Server"
 sleep 3s
-wget "https://dl.dropboxusercontent.com/s/iengjqhgoukoxuj/w7.zip?dl=0"
+wget -O w7.zip "https://dl.dropboxusercontent.com/s/iengjqhgoukoxuj/w7.zip?dl=0"
 clear
 echo "finalising setup"
 sleep 3s
