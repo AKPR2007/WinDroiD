@@ -1,8 +1,16 @@
 echo "run windows 7 on termux"
-echo "some files used in this process is not owned by me. credits to those files are in github"
+echo """
+
+ _       ___       ____             _ ____ 
+| |     / (_)___  / __ \_________  (_) __ \
+| | /| / / / __ \/ / / / ___/ __ \/ / / / /
+| |/ |/ / / / / / /_/ / /  / /_/ / / /_/ / 
+|__/|__/_/_/ /_/_____/_/   \____/_/_____/  
+                                           
+"""
 echo "contributors : AKPR2007,Exanoff12"
 echo "starting process"
-sleep 2s
+sleep 4s
 clear
 cd ~
 echo "updating and upgrading packages"
