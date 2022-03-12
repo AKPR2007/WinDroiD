@@ -1,9 +1,0 @@
-zarchiver
-https://download.apkpure.com/b/APK/cnUuemRldnMuemFyY2hpdmVyXzk1OTVfMTljMTZjNzg?_fn=WkFyY2hpdmVyX3YwLjkuNS44X2Fwa3B1cmUuY29tLmFwaw&as=a4bfd5632dcc880be5b537a44a13e683614e9e3e&ai=-1864608564&at=1632542150&_sa=ai%2Cat&k=c8fe9a20fbac936aa1d9fcc2b55a600c615140c6&_p=cnUuemRldnMuemFyY2hpdmVy&c=1%7CTOOLS%7CZGV2PVpEZXZzJnQ9YXBrJnM9NTAzOTg5OCZ2bj0wLjkuNS44JnZjPTk1OTU
-https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=2216762
-
-vnc viewer
-n/a
-
-termux
-n/a
