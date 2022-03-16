@@ -92,4 +92,4 @@
 
 **You will need to grant storage permission to termux when a pop up comes up (if you haven't setup storage already)**
 
-**When the setting up is completed you should see a output like this `setting up is done now run './win7' to start windows 7 !`**
+**When the setting up is completed you should see a output like this `setting up is finished now run './win7' to start windows 7!`**
