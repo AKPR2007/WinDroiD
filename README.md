@@ -39,7 +39,7 @@
 
 **1.Open Termux**
 <p align="center">
-<img src="https://raw.githubusercontent.com/AKPR2007/WinDroiD/main/img/tute/1.png" width="50%" height="50%">
+<img src="/img/tute/1.png" width="50%" height="50%">
 </p>
 
 **2.Copy code from [Here](#execute-code)**
