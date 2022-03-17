@@ -1,2 +1,4 @@
 theme: jekyll-theme-cayman
-baseurl: /WinDroiD
+
+url: "https://akpr2007.github.io"
+baseurl: "/WinDroiD"
