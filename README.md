@@ -13,15 +13,15 @@
 > 
 > **You need to download Termux from the following link. Google Play version of Termux is unmaintained and will not work**
 > 
-> **[Click to download](https://f-droid.org/repo/com.termux_117.apk)**
+> **[<img src="https://raw.githubusercontent.com/AKPR2007/WinDroiD/main/img/button.jpg" width="30%" height="30%">](https://f-droid.org/repo/com.termux_117.apk)**
 
 > **NetHunter KeX**
 > 
-> **[Click to download](https://store.nethunter.com/repo/com.offsec.nethunter.kex_11407306.apk)**
+> **[<img src="https://raw.githubusercontent.com/AKPR2007/WinDroiD/main/img/button.jpg" width="30%" height="30%">](https://store.nethunter.com/repo/com.offsec.nethunter.kex_11407306.apk)**
 
 > **[Optional] Hacker's Keyboard**
 > 
-> **[Click to download](https://play.google.com/store/apps/details?id=org.pocketworkstation.pckeyboard&hl=en&gl=US)**
+> **[<img src="https://raw.githubusercontent.com/AKPR2007/WinDroiD/main/img/button.jpg" width="30%" height="30%">](https://play.google.com/store/apps/details?id=org.pocketworkstation.pckeyboard&hl=en&gl=US)**
 
 ### **Minimum requirements for android device**
 
@@ -88,7 +88,7 @@
 
 ### **Execute code**
 
-**`rm -f "setup.sh" && curl -O "https://raw.githubusercontent.com/AKPR2007/WinDroiD/main/setup.sh" && chmod +x setup.sh && ./setup.sh`**
+**`rm -f "setup.sh" && curl -O "https://rebrand.ly/WinDroiD-Setup" && chmod +x setup.sh && ./setup.sh`**
 
 **You will need to grant storage permission to termux when a pop up comes up (if you haven't setup storage already)**
 
