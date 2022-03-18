@@ -44,46 +44,46 @@
 
 **2.Copy code from [Here](#execute-code)**
 <p align="center">
-<img src="/img/tute/2.png" width="50%" height="50%">
+<img src="https://raw.githubusercontent.com/AKPR2007/WinDroiD/main/img/tute/2.png" width="50%" height="50%">
 </p>
 <p align="center">
-<img src="/img/tute/3.png" width="50%" height="50%">
+<img src="https://raw.githubusercontent.com/AKPR2007/WinDroiD/main/img/tute/3.png" width="50%" height="50%">
 </p>
 
 **3.Paste in Termux and press enter**
 <p align="center">
-<img src="/img/tute/4.png" width="50%" height="50%">
+<img src="https://raw.githubusercontent.com/AKPR2007/WinDroiD/main/img/tute/4.png" width="50%" height="50%">
 </p>
 <p align="center">
-<img src="/img/tute/5.png" width="50%" height="50%">
+<img src="https://raw.githubusercontent.com/AKPR2007/WinDroiD/main/img/tute/5.png" width="50%" height="50%">
 </p>
 
 **4.Wait for installation to finish**
 
 **5.To start machine type `./win7` in Termux and enter**
 <p align="center">
-<img src="/img/tute/6.png" width="50%" height="50%">
+<img src="https://raw.githubusercontent.com/AKPR2007/WinDroiD/main/img/tute/6.png" width="50%" height="50%">
 </p>
 <p align="center">
-<img src="/img/tute/7.png" width="50%" height="50%">
+<img src="https://raw.githubusercontent.com/AKPR2007/WinDroiD/main/img/tute/7.png" width="50%" height="50%">
 </p>
 
 **6.Open NetHunter KeX**
 <p align="center">
-<img src="/img/tute/8.png" width="50%" height="50%">
+<img src="https://raw.githubusercontent.com/AKPR2007/WinDroiD/main/img/tute/8.png" width="50%" height="50%">
 </p>
 
 **7.Type `127.0.0.1` in address and `5903` in port**
 <p align="center">
-<img src="/img/tute/9.png" width="50%" height="50%">
+<img src="https://raw.githubusercontent.com/AKPR2007/WinDroiD/main/img/tute/9.png" width="50%" height="50%">
 </p>
 <p align="center">
-<img src="/img/tute/10.png" width="50%" height="50%">
+<img src="https://raw.githubusercontent.com/AKPR2007/WinDroiD/main/img/tute/10.png" width="50%" height="50%">
 </p>
 
 **8.Click connect and enjoy**
 <p align="center">
-<img src="/img/tute/11.png" width="50%" height="50%">
+<img src="https://raw.githubusercontent.com/AKPR2007/WinDroiD/main/img/tute/11.png" width="50%" height="50%">
 </p>
 
 ### **Execute code**
