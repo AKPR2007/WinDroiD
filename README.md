@@ -12,7 +12,7 @@
 > **Termux**
 > 
 > **You need to download Termux from the following link. Google Play version of Termux is unmaintained and will not work**
-
+> 
 > **[Click to download](https://f-droid.org/repo/com.termux_117.apk)**
 
 > **NetHunter KeX**
@@ -88,7 +88,7 @@
 
 ### **Execute code**
 
-> `rm -f "setup.sh" && curl -O "https://raw.githubusercontent.com/AKPR2007/WinDroiD/main/setup.sh" && chmod +x setup.sh && ./setup.sh`
+**`rm -f "setup.sh" && curl -O "https://raw.githubusercontent.com/AKPR2007/WinDroiD/main/setup.sh" && chmod +x setup.sh && ./setup.sh`**
 
 **You will need to grant storage permission to termux when a pop up comes up (if you haven't setup storage already)**
 
