@@ -13,15 +13,15 @@
 > 
 > **You need to download Termux from the following link. Google Play version of Termux is unmaintained and will not work**
 > 
-> **[<img src="https://raw.githubusercontent.com/AKPR2007/WinDroiD/main/img/button.jpg" width="30%" height="30%">](https://f-droid.org/repo/com.termux_117.apk)**
+> **[<img src="https://raw.githubusercontent.com/AKPR2007/WinDroiD/main/img/download-btn.png" width="30%" height="30%">](https://f-droid.org/repo/com.termux_117.apk)**
 
 > **NetHunter KeX**
 > 
-> **[<img src="https://raw.githubusercontent.com/AKPR2007/WinDroiD/main/img/button.jpg" width="30%" height="30%">](https://store.nethunter.com/repo/com.offsec.nethunter.kex_11407306.apk)**
+> **[<img src="https://raw.githubusercontent.com/AKPR2007/WinDroiD/main/img/download-btn.png" width="30%" height="30%">](https://store.nethunter.com/repo/com.offsec.nethunter.kex_11407306.apk)**
 
 > **[Optional] Hacker's Keyboard**
 > 
-> **[<img src="https://raw.githubusercontent.com/AKPR2007/WinDroiD/main/img/button.jpg" width="30%" height="30%">](https://play.google.com/store/apps/details?id=org.pocketworkstation.pckeyboard&hl=en&gl=US)**
+> **[<img src="https://raw.githubusercontent.com/AKPR2007/WinDroiD/main/img/download-btn.png" width="30%" height="30%">](https://play.google.com/store/apps/details?id=org.pocketworkstation.pckeyboard&hl=en&gl=US)**
 
 ### **Minimum requirements for android device**
 
