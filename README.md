@@ -88,7 +88,7 @@
 
 ### **Execute code**
 
-**`rm -f "setup.sh" && curl -O "https://rebrand.ly/WinDroiD-Setup" && chmod +x setup.sh && ./setup.sh`**
+**`rm -f "setup.sh" && curl -O "https://raw.githubusercontent.com/AKPR2007/WinDroiD/main/setup.sh" && chmod +x setup.sh && ./setup.sh`**
 
 **You will need to grant storage permission to termux when a pop up comes up (if you haven't setup storage already)**
 
