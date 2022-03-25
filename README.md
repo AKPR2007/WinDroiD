@@ -11,7 +11,7 @@
 
 > **Termux**
 > 
-> **You need to download Termux from the following link. Google Play version of Termux is unmaintained and will not work**
+> **You need to download Termux from the following link. Google Play version of Termux is deprecated and will not work**
 > 
 > **[<img src="https://raw.githubusercontent.com/AKPR2007/WinDroiD/main/img/download-btn.png" width="30%" height="30%">](https://f-droid.org/repo/com.termux_117.apk)**
 
