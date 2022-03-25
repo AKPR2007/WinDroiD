@@ -30,7 +30,7 @@ if [ -n "$TERMUX_VERSION" ]; then
 		clear
 		echo "installating/updating qemu-system-i386"
 		sleep 3s
-		pkg install qemu-system-i386 -y
+		pkg install qemu-system-i386-headless -y
 		clear
 		echo "setting up storage access"
 		sleep 3s
