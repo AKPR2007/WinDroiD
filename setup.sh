@@ -1,15 +1,6 @@
 echo "WinDroiD v1.7"
-echo """
-
- _       ___       ____             _ ____ 
-| |     / (_)___  / __ \_________  (_) __ \
-| | /| / / / __ \/ / / / ___/ __ \/ / / / /
-| |/ |/ / / / / / /_/ / /  / /_/ / / /_/ / 
-|__/|__/_/_/ /_/_____/_/   \____/_/_____/  
-                                           
-"""
 echo "latest version contributors : AKPR2007,Exanoff12"
-echo "preparing to start process..."
+echo "preparing to start process"
 sleep 6s
 clear
 cd ~
