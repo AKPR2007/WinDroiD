@@ -5,6 +5,8 @@
 
 ***This code allows you to run a lite & stable version of "Microsoft Windows 7" on your nonrooted android phone via the use of [Termux](https://github.com/termux) & [Qemu-Package](https://github.com/qemu). The code is still in development progress so you might occur potential slowdowns & crashes. If something like this occurs to you feel free to submit an issue in the [Issues Tab](https://github.com/AKPR2007/WinDroiD/issues/new)***
 
+> ***Latest Version 1.7***
+
 # Installation TUTORIAL
 
 ### **Required apps**
