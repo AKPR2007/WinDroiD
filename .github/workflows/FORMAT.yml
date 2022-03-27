@@ -1,7 +1,7 @@
 name: Auto Format Code
 on: workflow_dispatch
 jobs:
-  report:
+  run:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
