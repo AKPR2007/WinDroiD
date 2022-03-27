@@ -1,17 +1,18 @@
-name: Automation
+name: Auto Format Code
 on: workflow_dispatch
 jobs:
   report:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Edit
+      - name: Format
         run: |
-          automations
+          sudo apt install shfmt
+          shfmt -w test.sh
       - name: Commit
         run: |
           git config --global user.name 'WinDroiD Automations'
           git config --global user.email 'windroid@akpr2007.github.io'
           git add -A
-          git commit -am "Automated Commit"
+          git commit -am "Format Shell Script"
           git push
