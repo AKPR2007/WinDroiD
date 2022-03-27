@@ -7,7 +7,7 @@ jobs:
       - uses: actions/checkout@v2
       - name: Format
         run: |
-          sudo apt install shfmt
+          sudo snap install shfmt
           shfmt -w test.sh
       - name: Commit
         run: |
