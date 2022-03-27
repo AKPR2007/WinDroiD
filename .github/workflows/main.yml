@@ -1,0 +1,17 @@
+name: Automation
+on: workflow_dispatch
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Edit
+        run: |
+          automations
+      - name: Commit
+        run: |
+          git config --global user.name 'WinDroiD Automations'
+          git config --global user.email 'windroid@akpr2007.github.io'
+          git add -A
+          git commit -am "Automated Commit"
+          git push
