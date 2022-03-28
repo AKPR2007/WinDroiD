@@ -1,5 +1,9 @@
 name: Auto Format Code
-on: workflow_dispatch
+on: workflow_dispatch:
+    inputs:
+      file:
+        description: 'Enter File to be Formatted'
+        required: true
 jobs:
   run:
     runs-on: ubuntu-latest
