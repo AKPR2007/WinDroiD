@@ -2,7 +2,7 @@ name: Auto Format Code
 on:
   workflow_dispatch:
     inputs:
-      file:
+      filename:
         description: 'Enter File to be Formatted'
         required: true
 jobs:
@@ -11,9 +11,11 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Format
+        env:
+          FILE_NAME: ${{ github.event.inputs.filename }}
         run: |
           sudo snap install shfmt
-          shfmt -w test.sh
+          shfmt -w $FILE_NAME
       - name: Commit
         run: |
           git config --global user.name 'WinDroiD Automations'
