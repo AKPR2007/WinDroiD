@@ -11,7 +11,7 @@ if [ -n "$TERMUX_VERSION" ]; then
 	CHECK_VERSION=$(awk 'BEGIN{ print "'$TERMUX_VERSION'">="'$MIN_VERSION'" }')
 	if [ "$CHECK_VERSION" -eq 1 ]; then
 		echo "termux version is supported. continuing setup"
-sleep 3s
+		sleep 3s
 		clear
 		echo "updating and upgrading packages"
 		sleep 3s
