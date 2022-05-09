@@ -18,6 +18,8 @@ jobs:
           shfmt -w $FILE_NAME
       - name: Commit
         run: |
+          git config --global user.name 'github-actions[BOT]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add -A
           git commit -am "Format Shell Script"
           git push
