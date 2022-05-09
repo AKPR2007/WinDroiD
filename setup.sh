@@ -1,4 +1,4 @@
-echo "WinDroiD v1.7"
+ echo "WinDroiD v1.7.1"
 echo "latest version contributors : AKPR2007,Exanoff12"
 echo "preparing to start process"
 sleep 6s
@@ -7,6 +7,7 @@ cd ~
 echo "checking if termux version is supported"
 sleep 3s
 if [ -n "$TERMUX_VERSION" ]; then
+pwd
 	MIN_VERSION=0.117
 	CHECK_VERSION=$(awk 'BEGIN{ print "'$TERMUX_VERSION'">="'$MIN_VERSION'" }')
 	if [ "$CHECK_VERSION" -eq 1 ]; then
