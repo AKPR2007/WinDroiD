@@ -1,3 +1,6 @@
+> [!NOTE]
+> **The project is currently deprecated but might get revived with windows 11 arm**
+
 <h1 align="center">Welcome to WinDroiD</h1>
 <p align="center">
 <img src="https://svg-banners.vercel.app/api?type=glitch&text1=WinDroiD&width=800&height=400">
